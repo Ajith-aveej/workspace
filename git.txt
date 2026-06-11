@@ -6,3 +6,13 @@ a - means the file which we have created has been added to the git folder
 4.git commit -m "file added": this is the final step to make a file of cloned folder without any sign
 5.git push origin main : perform the function of transferring the file from local git folder to GitHub repository 
 6.git pull : it will dragg only the file created later after cloned github repository
+7.git init: this used to convert normal folder to git folder 
+8.git add. : this command used to add all the files created within the local folder to git folder
+9.git remote add origin "git repository link": inorder to store this git folder to that git repository
+10.git branch : this will shows the git folder stored location which is defaultly master
+11.git branch -M main : to change the located folder name from master to main or something 
+12.git branch checkout branch01: this is used to change the main folder location to another here given is branch01
+"Switched to a new branch 'branch01'"
+13.git diff branch01 :  provides changes made in branched folder from main folder
+14.git merge branch01: this will reflects the changes made in branch01 to main
+ 
