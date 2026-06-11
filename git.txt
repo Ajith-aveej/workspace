@@ -2,7 +2,7 @@ git
 1.git clone: replicating the git repository to the local folder 
 2.git add : used to include the local folder file to git folder with a sign at terminal
 a - means the file which we have created has been added to the git folder 
-3.git status : check the files state that created and existed earlier 
+3.git status : check the files state that created and existed earlier in the git folder
 4.git commit -m "file added": this is the final step to make a file of cloned folder without any sign
 5.git push origin main : perform the function of transferring the file from local git folder to GitHub repository 
 6.git pull : it will dragg only the file created later after cloned github repository
